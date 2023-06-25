@@ -5,6 +5,5 @@ protobuf==3.20.1
 seaborn==0.12.1
 matplotlib==3.5.3
 altair==4.1.0
-altair-vegalite==0.7.0
 vega==3.4.0
 vegalite==4.0.0
